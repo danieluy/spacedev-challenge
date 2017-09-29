@@ -1,0 +1,42 @@
+[
+  {
+      "id": "15550556",
+      "artist_event_id": "19879710",
+      "artist_id": "510",
+      "url": "http://www.bandsintown.com/e/19879710?app_id=test&came_from=267",
+      "on_sale_datetime": "",
+      "datetime": "2017-12-30T21:00:11",
+      "venue": {
+          "name": "Mandalay Bay Events Center",
+          "latitude": "36.175",
+          "longitude": "-115.1363889",
+          "city": "Las Vegas",
+          "region": "NV",
+          "country": "United States"
+      },
+      "offers": [],
+      "lineup": [
+          "Maroon 5"
+      ]
+  },
+  {
+      "id": "15550562",
+      "artist_event_id": "19879718",
+      "artist_id": "510",
+      "url": "http://www.bandsintown.com/e/19879718?app_id=test&came_from=267",
+      "on_sale_datetime": "",
+      "datetime": "2017-12-31T09:00:02",
+      "venue": {
+          "name": "Mandalay Bay Events Center",
+          "latitude": "36.175",
+          "longitude": "-115.1363889",
+          "city": "Las Vegas",
+          "region": "NV",
+          "country": "United States"
+      },
+      "offers": [],
+      "lineup": [
+          "Maroon 5"
+      ]
+  }
+]
